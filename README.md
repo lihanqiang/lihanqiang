@@ -1,8 +1,11 @@
 ### Hi there and welcome!👋
 
-My name is Jack, A FE newer, even working in this field for 6 years 😄.
+![GitHub User's stars](https://img.shields.io/github/stars/lihanqiang?style=social)
+![GitHub followers](https://img.shields.io/github/followers/lihanqiang?style=social)
 
-- 🔭 I’m currently working on CEC Group, which is located at ChengDu China.
+My name is Jack, a FE newer, even have worked in this field for 6 years 😄.
+
+- 🔭 I’m currently working on CEC group, which is located at ChengDu China.
 - 🌱 I’m learning some web 3D vision technologies, such as WebGL/Threejs/Unity.
-- 📫 How to reach me: Tel: +86 13882141068, wechat: search 13882141068.
-- ⚡ Fun fact: Goal to reverse the World!
+- 📫 How to reach me: tel: +8613882141068, wechat: search 13882141068.
+- ⚡ Fun fact: Goal to reverse the world!
