@@ -5,9 +5,6 @@
 
 <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=lihanqiang&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
 
-<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihanqiang&langs_count=3&hide_title=true&hide_border=true" />
-
-
 My name is Jack, a FE newer, have already worked in this field for 6 years 😄.
 
 - 🔭 I’m currently working on CEC group, which is located at ChengDu China.
