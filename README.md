@@ -8,4 +8,4 @@
 My name is Jack, a FE newer, have already worked in this field for 6 years 😄.
 
 - 🔭 I’m currently working on a small group, which is located at ChengDu China.
-- 🌱 I’m learning some web 3D vision technologies, such as WebGL/Threejs/UE5.
+- 🌱 I’m learning some web 3D vision technologies, such as WebGL/Threejs/COCOS.
